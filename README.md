@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Manvendra Singh Hada from New Delhi.<br><br>- 🔭 I’m a Final Year B. Tech Student.<br>- 📚 I'm currently learning React.Js<br>- ⚡ In my free time I surf Internet and Learn about new technologies.</p>
+<p align="left">I'm Manvendra Singh Hada from New Delhi.<br><br>- 🔭 I’m a Final Year B. Tech CSE Student from SRM Institute Of Science And Technology, KTR Campus.<br>- 📚 I'm currently working on my React.Js skills.<br>- ⚡ In my free time I surf Internet and Learn about new technologies.</p>
 
 ###
 
@@ -63,6 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mh8793/mh8793/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mh8793/mh8793/output/snake.svg" alt="Snake animation" />
 
 ###
