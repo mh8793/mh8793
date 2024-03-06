@@ -63,6 +63,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mh8793/mh8793/output/snake.svg" alt="Snake animation" />
 
-###
