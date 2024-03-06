@@ -63,6 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mh8793/mh8793/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mh8793/mh8793/snake.yml/snake.svg" alt="Snake animation" />
 
 ###
