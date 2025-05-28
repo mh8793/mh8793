@@ -29,7 +29,10 @@
 
 ###
 
-<p align="left">I'm Manvendra Singh Hada from New Delhi.<br><br>- 🔭 I’m a Final Year B. Tech CSE Student from SRM Institute Of Science And Technology, KTR Campus.<br>- 📚 I'm currently working on my React.Js skills.<br>- ⚡ In my free time I surf Internet and Learn about new technologies.</p>
+<p align="left">I'm Manvendra Singh Hada from New Delhi.<br><br>- 🔭 Computer Science and Engineering graduate from SRM Institute of Science and Technology (KTR) with a strong foundation
+in software development. Passionate about frontend development using React.js and committed to enhancing user experiences.
+Skilled in mobile security analysis, C++, Python, and modern web technologies.
+</p>
 
 ###
 
